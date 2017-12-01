@@ -1,0 +1,15 @@
+items
+
+1  - dollar - CAS 207
+13 - watch - CAS maintenance closet
+10 - taco - TBell
+53 - belgrade ticket - giant's house
+52 - cairo ticket - giant's house
+55 - beijing ticket - giant's house
+56 - wellington ticket - giant's house
+43 - boat - thailand harbor
+60 - genie lamp - end of giant's hallway
+49 - nothing - midair -> for "you see:"
+21 - UN mandate -> more accurately, a new article to the universal declaration of human rights (UDHR)
+33 - pyramids - egypt
+45 - sheep - NZ

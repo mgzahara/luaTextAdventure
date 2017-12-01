@@ -1,0 +1,60 @@
+1:CAS 207:4:6:2:13
+2:Schemm's Office:1:0:3:0
+3:Smith's Office:2:0:0:0
+4:Pleger's Office:0:0:1:14
+5:Dotski House:0:0:6:0
+6:Easterday Ave:5:9:7:1
+7:Sault Airport:6:11:0:0
+8:The Bank:0:0:9:0
+9:Ashmun:8:10:0:6
+10:Taco Bell:0:0:11:9
+11:M-129:10:12:0:7
+12:Some Random Farm:48:0:0:11
+13:CAS Maintenance Closet:0:1:0:0
+14:Road to White House:15:4:0:0
+15:The White House:16:0:14:0
+16:Air Force One Cabin:19:18:15:17
+17:Air Force One Luggage Compartment:0:16:0:0
+18:Air Firce One Cockpit:0:0:0:16
+19:Switzerland:20:24:16:22
+20:Geneva:0:0:19:21
+21:The UN:0:20:0:0
+22:France <-> Switzerland:0:19:0:23
+23:France:0:22:0:0
+24:Switzerland <-> Serbia:25:26:0:19
+25:Austria:0:0:24:0
+26:Serbia:27:29:0:24
+27:Belgrade:28:0:26:0
+28:Belgrade Airport:0:0:27:0
+29:Serbia <-> Turkey:0:31:30:26
+30:Greece:29:0:0:0
+31:Turkey:0:36:32:29
+32:Turkey <-> Egypt:31:0:33:0
+33:Egypt:32:0:0:34
+34:Cairo:0:33:35:0
+35:Cairo Airport:34:0:0:0
+36:Turkey <-> China:37:38:0:31
+37:Russia:0:0:36:0
+38:China:39:0:41:36
+39:Beijing:0:40:38:0
+40:Beijing Airport:0:0:0:39
+41:China <-> Thailand:38:0:42:0
+42:Thailand:41:0:43:0
+43:Thailand Harbor:42:44:0:0
+44:New Zealand Harbor:0:0:45:43
+45:New Zealand:44:0:0:46
+46:Wellington:0:45:0:47
+47:Wellington Airport:0:46:0:0
+48:Top of the Refried Bean Stalk:50:49:12:51
+49:Mid-Air:0:0:0:48
+50:Gaint's Garden:0:0:48:0
+51:Giant's Castle:52:48:0:54
+52:Giant's Kitchen:53:0:51:0
+53:Giant's Bathroom:0:0:52:0
+54:Giant's Hallway #1:55:51:56:57
+55:Giant's Bedroom:0:0:54:0
+56:Giant's Guest Room:54:0:0:0
+57:Giant's Hallway #2:0:54:0:58
+58:Giant's Hallway #3:0:57:0:59
+59:Giant's Hallway #4:0:58:0:60
+60:End of the Hallway:0:59:0:0

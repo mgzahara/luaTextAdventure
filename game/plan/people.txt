@@ -1,0 +1,28 @@
+people
+
+2  - schemm - office
+3  - smith - office
+4  - pleger - office
+15 - rat - white house
+15 - trump - white house
+5  - dotski dog - dotski house
+5  - dotski - dotski house
+10 - kody - taco bell
+8  - ahmend's gma - bank
+12 - random farmer - random farm
+51 - evil giant schenn - up the refried ben stalk somewhere
+18 - airforce one pilot - airforce one cockpit
+21 - peter thomson (UN president for 2016) - UN
+25 - austria person - austria
+23 - france person - france
+30 - greece person - greece
+31 - turkey person - turkey
+33 - egypt person - egypt
+38 - china person - china
+42 - thailand person - thailand
+43 - thailand harbor master - thailand harbor
+44 - new zealand harbor master - NZ harbor
+45 - new zaeland person - NZ
+
+*have national security for each country with an airport start in the capital city*
+	*if the player should enter the captial city, the national security would kill them for some reason*

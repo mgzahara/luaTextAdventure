@@ -1,0 +1,56 @@
+wincon 1
+
+pick up dollar
+go east to TB
+west
+north
+sell taco to grandma
+back to TB
+buy a tacogo all the way west
+drop taco
+go back to TB
+buy another
+go back to closet
+drop
+repeat this until 8 tacos are stored
+go to CAS 207
+go north
+give taco to pleger
+go west
+go north
+give rat taco
+give trump taco
+go north
+go north
+go north
+go west
+give taco to peter
+go east
+go south
+go east
+go east
+show UN mandate to tomislav
+warp taco
+give taco to tomislav
+go east
+go south
+go south
+show UN mandate to abdel
+warp taco
+give taco to abdel
+go north
+go north 
+go east 
+go east 
+show UN mandate to xi
+warp taco
+give taco to xi
+go south
+go south
+go south
+take boat
+use boat
+go south
+show bill UN mandate
+warp taco
+give bill taco

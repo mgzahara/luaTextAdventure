@@ -1,0 +1,14 @@
+require("things/beanStalk");
+require("things/beijingTicket");
+require("things/belgradeTicket");
+require("things/boat");
+require("things/brick");
+require("things/cairoTicket");
+require("things/dollar");
+require("things/genieLamp");
+require("things/mandate");
+require("things/nothing");
+require("things/pyramids");
+require("things/taco");
+require("things/watch");
+require("things/wellingtonTicket");

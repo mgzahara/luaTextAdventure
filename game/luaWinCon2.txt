@@ -1,0 +1,50 @@
+wincon 2
+
+pick up dollar
+go east to TB
+west
+north
+sell taco to grandma
+back to TB
+buy a tacogo all the way west
+drop taco
+go back to TB
+buy another
+go back to closet
+drop
+repeat this until 5 tacos are stored
+go back east to TB
+go south
+go east
+warp taco if you dont have one
+plant taco
+waste two days (change rooms 4 times and come back)
+go north
+*careful - going east will kill you*
+go west
+go north
+take Cairo ticket
+go north
+take Belgrade ticket
+go south 
+go south 
+go west
+go north
+take Beijing ticket
+go south
+go south
+take Wellington ticket
+go north
+go east
+go east
+go south
+go west
+go west
+----------------
+fly to each airport, plantin a taco at each
+type "fly to *name on ticket* Airport"
+be sure to "warp taco" in order to get a taco from your vault (closet)
+after the fourth taco is planted, you win
+if you fail to plant a taco at an airport, you will need to walk there via the map
+https://view.ziteboard.com/shared/66074833729416
+scroll with mouse to zoom -or- CTRL + / CTRL -

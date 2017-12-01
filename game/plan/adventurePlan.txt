@@ -1,0 +1,114 @@
+wincon #1
+
+find a dollar in CAS 207
+go to tacoBell, buy a single taco
+sell it to Ahmed's grandma, she will give a random number of dollars between 1 and 5
+	repeat as many times as you'd like
+go to pleger's office, feed him taco
+	he loves it so much he sets up a meeting with the most powerful person he knows, the US president
+travel to white house
+you see what looks like Trump, give him taco
+	oh no! it was a blonde rat and he took your taco
+continue on to trump's office to give HIM a taco
+he has an epiphany, the UN should know of this marvelous creation
+takes you to UN via Air Force One -> you may travel around AF1 for a limitted number of turns, have cool stuff. genie lamp?
+talk to *someone* at UN, they mandate all countries must have a taco bell
+	you happen to arrive on the hird tuesday of September(the start of the annual session fo the General Assembly)
+	when I have everyone try the taco bell, they aggree to skip the first two steps in the UN cycle (debate & negotiation)
+	and go straight to the third step, decision
+	then the fourth step, implementation falls to the player
+	while the fifth step, reporting, is unnecessary since everyone will love the tacos and TacoBell will be an international celebration
+get to all countries by walking -> New Zealand is still a mystery... Maybe a chinese boat?
+
+
+taco uses:
+	feed to pleger
+	feed to trump rat
+	feed to real trump
+	feed to someone at UN
+	feed highway men on some perilous road to keep them from killing you - OR - a sum of money earned from Ahmed's Gma
+	one for each country you must visit to start them on their way (4)
+
+
+wincon #2
+
+find dollar in CAS 207
+buy a taco
+walk down 129 to someones farm, plant it
+come back in a few turns *do whatever until then* when taco plant has sprouted
+	harvest taco plant *do something for a few turns*
+	come back to someones farm to see that the taco plant has sprouted a giant bean stalk
+climb it
+find the giant Dr. Schenn - "FE-FI-FO-FUM! All of my students are dumb! (except that zahara kid)"
+he spots you!
+making offering of taco plant to the giant
+he loves the idea and asks you to plant it in his garden
+once you plant it, he allows you to stay in his castle for a few days 
+	*some funny line about how he wont forget youre his friend, while asking where he left something*
+	if you stay too long, he will forget he likes you and kill you onsight
+	have the genie's lamp be somewhere in his house
+you should find plane tickets to Egypt, New Zealand, Serbia, and China somewhere in his house
+	a different one per room
+leave before giant kills you
+
+
+
+
+	
+	
+total tacos:
+	plant on the farm
+	feed to giant to persuade him not to kill you
+	plant in giant's garden
+	plant in all countries (4)
+
+
+
+
+
+
+
+
+
+VERBS
+	plant
+	show
+	*buy
+	sell
+	*drop
+	*inventory
+	*take - pick up
+	harvest -> like "pick up" but only for the taco plant
+	*give -> the item is essentially destroyed and something happens
+	throw -> the item is essentially destroyed and something happens
+	use
+	climb? just allow movement
+	time -> display ascii art of sun/moon
+	fly -> only works from airports, have verb ask follow up question as to where
+		give choices, but only for the places for which the person has a ticket
+
+
+**** events table so the game knows about past events --- and maybe even future ones???
+when entering thailand for the first time 
+		"everyone is friendly because all americans coming to Thailand get a free 30 day visa automatically"
+
+****inside tick() have a check for whether or not the giant forgot about us, if so AND if we are in the same room
+		"You were inside the giant's house too long and he forgot he liked you"
+		"therefor when he found you in his house, he killed you"
+		"ironically enough, it was a very graphic scene"
+		"you lose"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
